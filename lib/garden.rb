@@ -23,6 +23,7 @@
 # cucumber.garden = lawn
 
 # p lawn.plants
+require_relative "./plant"
 class Car
   attr_accessor: make, model, year
 end
